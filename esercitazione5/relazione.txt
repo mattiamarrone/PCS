@@ -1,0 +1,4 @@
+Dai test che ho fatto all'inizio, ho impostato la soglia a N=45 perché l'Insertion Sort era il più veloce per gli array piccoli.
+Però, quando ho compilato il codice in modalità Release, i tempi sono diminuiti.
+La cosa interessante è che l'Insertion Sort è diventato molto più veloce battendo il Quicksort anche ben oltre la soglia dei 45 elementi.
+Per colpa di questa cosa, il mio Quicksort Ibrido alla fine è risultato un po' più lento del previsto. 
